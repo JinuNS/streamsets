@@ -1,5 +1,5 @@
 
-def test_stf(elasticsearch_data):
+def test_stf():
     """Test method."""
     print("In test_stf")
     assert 1 == 1
